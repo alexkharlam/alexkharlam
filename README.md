@@ -2,7 +2,7 @@
 Hello! My name is Alex, I'm 20 years old and I am frontend developer.
 My current location is Tbilisi, Georgia, English level is about B2.
 
- I build adaptive css layouts using preproccesors, write semantic and accesible HTML, create Web Applications with Javascript.
+ I can build adaptive css layouts using preproccesors, write semantic and accesible HTML, create Web Applications with Javascript.
 
 I also design UX/UI, so all projects from portfolio were fully created by myself from nothing :)
 
