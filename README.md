@@ -20,7 +20,7 @@ Here is only stuff that I know and worked with, while building websites/web apps
 🟢  **MVC architecture**  
 
 
-## Portfolio
+## 💼 Portfolio
 ### Arteo
 🧾 [Github repository](github.com)  
 🕸️ [Go to actual website](arteo.netlify.app)
@@ -32,7 +32,7 @@ Here is only stuff that I know and worked with, while building websites/web apps
 🧾 [Github repository](github.com)  
 🕸️ [Go to actual website](sufy.netlify.app)
 
-✅ Notes application, where you can create and delete notes and categories, sort notes by categories. Created only with Javascript, Html and Css. I decided to use MVC architecure for Javascript code, to conveniently separate modules and control UI. 
+✅ Notes application, where you can create and delete notes and categories, sort notes by categories. Created only with Javascript, Html and Css. I used MVC architecure for Javascript code, to conveniently separate modules and control UI. 
 
 ### Social links
 I don't have much in my social media, but if you want, you can check them)  
