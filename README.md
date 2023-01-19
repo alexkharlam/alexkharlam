@@ -27,6 +27,7 @@ Here is only stuff that I know and worked with, while building websites/web apps
 
    ✅ Landing website for a fictional company with adaptive layout, popup form, mobile navigation.
    I used Html, Sass and Javascript for building website, Parcel for bundling.
+   
 
 ### Sufy
 🧾 [Github repository](github.com)  
@@ -35,7 +36,8 @@ Here is only stuff that I know and worked with, while building websites/web apps
 ✅ Notes application, where you can create and delete notes and categories, sort notes by categories. Created only with Javascript, Html and Css. I used MVC architecure for Javascript code, to conveniently separate modules and control UI. 
 
 ### Social links
-I don't have much in my social media, but if you want, you can check them)  
+I don't have much in my social media, but if you want, you can check them) 
+Also you can text me, I'm always open to conversation🙂
    [Instagram](https://www.instagram.com/a__kharlam/)  
    [Facebook](https://www.facebook.com/profile.php?id=100073837724902)  
    [Telegram](https://t.me/KHARLAM0)
