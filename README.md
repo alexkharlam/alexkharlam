@@ -9,8 +9,9 @@ I also design UX/UI, so all projects from portfolio were fully created by myself
 ## 🔧 Stack of technology
 Here is only stuff that I know and worked with, while building websites/web apps
 
-🟢  **Javascript** (ES6), **HTML, CSS**  
-🟢  **React**
+🟢  **Javascript** (ES6),                                        
+🟢  **React**                                                
+🟢  **HTML, CSS**                                                                           
 🟢  **SASS** (scss syntax)                                                                             
 🟢  **Webpack**   
 🟢  **Parcel** (bundler too, but with almost zero configuration)  
@@ -34,7 +35,7 @@ Here is only stuff that I know and worked with, while building websites/web apps
 ✅ Notes application, where you can create and delete notes and categories, sort notes by categories. Created only with Javascript, Html and Css. I used MVC architecure for Javascript code, to conveniently separate modules and control UI. 
 
 ### Social links
-You can text me, I'm always open to conversation🙂
-   [Instagram](https://www.instagram.com/a__kharlam/)  
-   [Linkedin](https://www.linkedin.com/in/kharlam/) 
+You can text me, I'm always open to conversation🙂                                                        
+   [Instagram](https://www.instagram.com/a__kharlam/)                                           
+   [LinkedIn](https://www.linkedin.com/in/kharlam/)                                              
    [Telegram](https://t.me/KHARLAM0)
