@@ -9,15 +9,15 @@ I also design UX/UI, so all projects from portfolio were fully created by myself
 ## 🔧 Stack of technology
 Here is only stuff that I know and worked with, while building websites/web apps
 
-🟢  **Javascript** (ES6),                                        
-🟢  **React**                                                
+🟢  **Javascript** (ES6)                                                                                                                            
+🟢  **Next.js**                                                                                                                            
+🟢  **React**                                                                                                      
+🟢  **Tailwind**   
 🟢  **HTML, CSS**                                                                           
 🟢  **SASS** (scss syntax)                                                                             
-🟢  **Webpack**   
-🟢  **Parcel** (bundler too, but with almost zero configuration)  
+🟢  **Webpack, Parcel, Vite**    
 🟢  **Git**  
 🟢  **MVC architecture**  
-
 
 ## 💼 Portfolio
 
