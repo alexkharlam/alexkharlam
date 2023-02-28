@@ -31,7 +31,7 @@ Here is only stuff that I know and worked with, while building websites/web apps
 
 ### Arteo
 🧾 [Github repository](https://github.com/alexkharlam/arteo)  
-🕸️ [Go to actual website](arteo.netlify.app)
+🕸️ [Go to actual website](https://arteo.netlify.app/)
 
    ✅ Landing website for a fictional company with adaptive layout, modal form, mobile navigation.
    I used Html, Sass and Javascript for building website, Parcel for bundling.
@@ -39,7 +39,7 @@ Here is only stuff that I know and worked with, while building websites/web apps
 
 ### Sufy
 🧾 [Github repository](https://github.com/alexkharlam/sufy)  
-🕸️ [Go to actual website](sufy.netlify.app)
+🕸️ [Go to actual website](https://sufy.netlify.app/)
 
 ✅ Notes application, where you can create and delete notes and categories, sort notes by categories. Created only with Javascript, Html and Css. I used MVC architecure for Javascript code, to conveniently separate modules and control UI. 
 
