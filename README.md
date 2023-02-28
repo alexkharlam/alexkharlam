@@ -20,6 +20,15 @@ Here is only stuff that I know and worked with, while building websites/web apps
 
 
 ## 💼 Portfolio
+
+### ReelRate
+🧾 [Github repository](https://github.com/alexkharlam/reelrate-beta)  
+🕸️ [Go to actual website](https://reelrate-beta.netlify.app/)
+
+   ✅ Next.js app, where you can search for millions of movies (i used movies database api), look for info about them, rate movies and manage your rates.
+   Also this project uses Redux to manage rates state.
+   
+
 ### Arteo
 🧾 [Github repository](https://github.com/alexkharlam/arteo)  
 🕸️ [Go to actual website](arteo.netlify.app)
