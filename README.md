@@ -1,8 +1,10 @@
 ## 🧑‍💻 About me
 Hello! My name is Alex, I'm 20 years old and I am frontend developer.
-My current location is Tbilisi, Georgia, English level is about B2.
+My current location is Tbilisi, Georgia, English level is about B2.                                                                                           
+[Go to my personal website with projects](https://kharlam.space/)   
+[My CV](https://drive.google.com/file/d/1rTRdfxtlIZapWkRGTDOa1RABN9NeKW7K/view?usp=share_link)
 
- I can build adaptive css layouts (+ with SASS or with Tailwind), write semantic and accesible HTML, create web applications with Javascript, React, Next.js.
+I can build adaptive css layouts (+ with SASS or with Tailwind), write semantic and accesible HTML, create web applications with Javascript, React, Next.js.
 
 I also design UX/UI, so all projects from portfolio were fully created by myself from scratch :)
 
@@ -20,6 +22,12 @@ Here is only stuff that I know and worked with, while building websites/web apps
 🟢  **MVC architecture**  
 
 ## 💼 Portfolio
+
+### Kharlam.space
+🧾 [Github repository](https://github.com/alexkharlam/portfolio)  
+🕸️ [Go to actual website](https://kharlam.space)
+
+   ✅ My personal website with summary about me and my portfolio projects. Built with Next.js and TailWind css, also i used Framer-motion library for page transitions.
 
 ### ReelRate
 🧾 [Github repository](https://github.com/alexkharlam/reelrate-beta)  
@@ -41,7 +49,7 @@ Here is only stuff that I know and worked with, while building websites/web apps
 🧾 [Github repository](https://github.com/alexkharlam/sufy)  
 🕸️ [Go to actual website](https://sufy.netlify.app/)
 
-✅ Notes application, where you can create and delete notes and categories, sort notes by categories. Created only with Javascript, Html and Css. I used MVC architecure for Javascript code, to conveniently separate modules and control UI. 
+✅ Notes application, where you can create and delete notes and categories, sort notes by categories. Created only with Javascript, Html and Css. I used MVC architecure pattern for Javascript code, to conveniently separate modules and control UI. 
 
 ### Social links
 You can text me, I'm always open to conversation🙂                                                        
