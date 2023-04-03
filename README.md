@@ -23,18 +23,17 @@ Here is only stuff that I know and worked with, while building websites/web apps
 
 ## 💼 Portfolio
 
+### ReelRate
+🧾 [Github repository](https://github.com/alexkharlam/reelrate)  
+🕸️ [Go to actual website](https://reelrate.netlify.app/)
+
+   ✅ Next.js app, where you can search for millions of movies and TV shows (I used movies database api), look for info about them, rate movies and manage your rates. This project uses TailWind for styling and Redux to manage collections state.
+   
 ### Kharlam.space
 🧾 [Github repository](https://github.com/alexkharlam/portfolio)  
 🕸️ [Go to actual website](https://kharlam.space)
 
    ✅ My personal website with summary about me and my portfolio projects. Built with Next.js and TailWind css, also i used Framer-motion library for page transitions.
-
-### ReelRate
-🧾 [Github repository](https://github.com/alexkharlam/reelrate-beta)  
-🕸️ [Go to actual website](https://reelrate-beta.netlify.app/)
-
-   ✅ Next.js app, where you can search for millions of movies (I used movies database api), look for info about them, rate movies and manage your rates.
-   Also this project uses Redux to manage rates state.
    
 
 ### Arteo
