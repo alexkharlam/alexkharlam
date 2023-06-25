@@ -1,6 +1,7 @@
 ## 🧑‍💻 About me
 Hello! My name is Alex, I'm 20 years old and I am frontend developer.
-My current location is Tbilisi, Georgia, English level is about B2.                                                                                           
+My current location is Tbilisi, Georgia, English level is about B2.                                                                                         
+[Me on LinkedIn](https://www.linkedin.com/in/kharlam/)                                                                    
 [Go to my personal website with projects](https://kharlam.space/)   
 [My CV](https://drive.google.com/file/d/1l0YJxrzODbE1ljUufpywlPaRf8-5dEdP/view?usp=share_link)
 
