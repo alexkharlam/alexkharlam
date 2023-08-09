@@ -22,6 +22,7 @@ My current location is Tbilisi, Georgia, English level is about B2.
 ### Ygacs quiz
 🧾 [Github repository](https://github.com/alexkharlam/ygacs-quiz)  
 🕸️ [Go to actual website](https://ygacs-quiz.onrender.com/)
+(It hosted on free tie render, so sometimes loading can take a minute or more)
 
    ✅ A Node.js-based quiz platform with JWT authentication, Express, Mongoose, pug templates, and Sass. Create an account, take quizzes, and manage your progress.
  
