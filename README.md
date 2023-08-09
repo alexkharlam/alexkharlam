@@ -2,16 +2,10 @@
 Hello! My name is Alex, I'm 20 years old and I am frontend developer.
 My current location is Tbilisi, Georgia, English level is about B2. 
                                               
-[Me on LinkedIn](https://www.linkedin.com/in/kharlam/)                                                                    
-[Go to my personal website with projects](https://kharlam.space/)   
+[Me on LinkedIn](https://www.linkedin.com/in/kharlam/)                                                                     
 [My CV](https://drive.google.com/file/d/1l0YJxrzODbE1ljUufpywlPaRf8-5dEdP/view?usp=share_link)
 
-I can build adaptive css layouts (+ with SASS or with Tailwind), write semantic and accesible HTML, create web applications with Javascript, Node.js, React, Next.js.
-
-I also design UX/UI, so all projects from portfolio were fully created by myself from scratch :)
-
-## 🔧 Stack of technology
-Here is only stuff that I know and worked with, while building websites/web apps
+## 🔧 Technologies i had expericne working with
 
 🟢  **Javascript** (ES6)                                                                                                                            
 🟢  **Node.js**                                                                             
@@ -22,7 +16,6 @@ Here is only stuff that I know and worked with, while building websites/web apps
 🟢  **SASS** (scss syntax)                                                                             
 🟢  **Webpack, Parcel, Vite**    
 🟢  **Git**  
-🟢  **MVC architecture**  
 
 ## 💼 Portfolio
 
