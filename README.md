@@ -5,7 +5,7 @@ My current location is Tbilisi, Georgia, English level is about B2.
 [Me on LinkedIn](https://www.linkedin.com/in/kharlam/)                                                                     
 [My CV](https://drive.google.com/file/d/1l0YJxrzODbE1ljUufpywlPaRf8-5dEdP/view?usp=share_link)
 
-## 🔧 Technologies i had expericne working with
+## 🔧 Technologies i had experience working with
 
 🟢  **Javascript** (ES6)                                                                                                                            
 🟢  **Node.js**                                                                             
@@ -29,7 +29,7 @@ My current location is Tbilisi, Georgia, English level is about B2.
 ### Ygacs quiz
 🧾 [Github repository](https://github.com/alexkharlam/ygacs-quiz)  
 🕸️ [Go to actual website](https://ygacs-quiz.onrender.com/)
-(It hosted on free tie render, so sometimes loading can take a minute or more)
+(It hosted with free tie on a platform called Render, so sometimes loading can take a minute or more)
 
    ✅ A Node.js-based quiz platform with JWT authentication, Express, Mongoose, pug templates, and Sass. Create an account, take quizzes, and manage your progress.
  
